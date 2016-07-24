@@ -1,0 +1,12 @@
+{
+  "name": "socketio",
+  "version": "1.0.0",
+  "description": "Socketio chat BSA 2106 JS",
+  "main": "index.js",
+  "dependencies": {
+    "socket.io": "1.4.8",
+    "express": "4.14.0"
+  },
+  "author": "Noschenko Denis",
+  "license": "ISC"
+}
